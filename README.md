@@ -11,3 +11,6 @@
 ## Escolaridade
 - Técnico em Informática, Senac Americana [2023 - 2025]
 - Ensino Médio Completo [2020 - 2022]
+
+## Teste alteração branch
+- Concluida?
